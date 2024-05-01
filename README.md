@@ -10,7 +10,7 @@ Elements contained:
   		- development
   		- gold
   		- test
-  		-df_preprocessed.csv
+  		- df_preprocessed.csv
     
 	- Notebooks:
 		- 1_TXA_ DataUnderstanding&Preprocessing.ipynb
