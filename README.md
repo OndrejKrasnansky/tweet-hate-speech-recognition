@@ -1,6 +1,6 @@
 # tweet-hate-speech-recognition
 EVALITA 2023 challange 
-Dataset and its description on http://www.di.unito.it/~tutreeb/haspeede-evalita23/index.html (Does not work with Microsoft Edge)
+Dataset and its description on http://www.di.unito.it/~tutreeb/haspeede-evalita23/index.html (Does not working with Microsoft Edge)
 
 
 Elements contained:
